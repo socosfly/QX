@@ -6,7 +6,7 @@ DOMAIN,cache.video.qiyi.com,HKMTMedia
 DOMAIN,api.bilibili.com,HKMTMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
 # > 芒果TV国际
-DOMAIN-SUFFIX,api.mgtv.com,HKMTMedia
+DOMAIN,api.mgtv.com,HKMTMedia
 # > WeTV
 DOMAIN-SUFFIX,wetv.vip,HKMTMedia
 DOMAIN-SUFFIX,wetvinfo.com,HKMTMedia
