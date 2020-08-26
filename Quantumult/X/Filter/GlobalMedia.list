@@ -223,3 +223,6 @@ USER-AGENT,YouTube*,GlobalMedia
 DOMAIN-SUFFIX,googlevideo.com,GlobalMedia
 DOMAIN-SUFFIX,youtube.com,GlobalMedia
 DOMAIN,youtubei.googleapis.com,GlobalMedia
+# > Peacock
+USER-AGENT,Peacock*,GlobalMedia
+DOMAIN-SUFFIX,peacocktv.com,GlobalMedia
