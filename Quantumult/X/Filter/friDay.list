@@ -1,3 +1,6 @@
-# > Friday
+# > Friday and myVideo
 USER-AGENT,friDay*,friDay
 DOMAIN-SUFFIX,friday.tw,friDay
+USER-AGENT,myVideo*,friDay
+DOMAIN-SUFFIX,myvideo.net.friDay
+DOMAIN-SUFFIX,catch.net.tw,friDay
