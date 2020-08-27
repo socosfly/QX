@@ -1,11 +1,21 @@
   # > iQIYI Intl
-  # DOMAIN-SUFFIX,iq.com,IQ
-  DOMAIN,akmcdnoversea.inter.iqiyi.com,IQ
-  DOMAIN,akmcdnoversea-tw.inter.iqiyi.com,IQ
+  DOMAIN-SUFFIX,iq.com,IQ
+  DOMAIN-SUFFIX,inter.iqiyi.com,IQ
+  // 视频播放版权地区验证
   DOMAIN,intel-cache.video.iqiyi.com,IQ
+  DOMAIN,intel-cache.m.iqiyi.com,IQ
+  // 主页瀑布流
   DOMAIN,intl.iqiyi.com,IQ
+  // 视频历史记录版权地区验证
   DOMAIN,intl-rcd.iqiyi.com,IQ
+  // 视频个人收藏版权地区验证
+  DOMAIN,intl-subscription.iqiyi.com,IQ
+  // 以下暂未验证（可选择直连）
   DOMAIN,intl-cmonitor.iqiyi.com,IQ
+  DOMAIN,intl-passport.iqiyi.com,IQ
+  DOMAIN,intl-sns.iqiyi.com,IQ
+  DOMAIN,intl-im-hist-api.iqiyi.com,IQ
+  DOMAIN,intl-act.vip.iqiyi.com,IQ
+  DOMAIN,intl-i.vip.iqiyi.com,IQ
   DOMAIN,msg-intl.qy.net,IQ
-  # DOMAIN,tv-api.iqiyi.com,IQ
-  DOMAIN,awsazcdnoversea.inter.iqiyi.com,IQ
+  DOMAIN,tv-api.iqiyi.com,IQ
