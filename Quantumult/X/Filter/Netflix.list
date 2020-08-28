@@ -1,5 +1,6 @@
 # > Netflix
 USER-AGENT,Argo*,Netflix
+DOMAIN,netflix.com.edgesuite.net,Netflix
 DOMAIN-SUFFIX,fast.com,Netflix
 DOMAIN-SUFFIX,netflix.com,Netflix
 DOMAIN-SUFFIX,netflix.net,Netflix
@@ -8,6 +9,7 @@ DOMAIN-SUFFIX,nflximg.com,Netflix
 DOMAIN-SUFFIX,nflximg.net,Netflix
 DOMAIN-SUFFIX,nflxso.net,Netflix
 DOMAIN-SUFFIX,nflxvideo.net,Netflix
+DOMAIN-SUFFIX,nflxsearch.net,Netflix
 DOMAIN-SUFFIX,netflixdnstest0.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest1.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest2.com,Netflix
