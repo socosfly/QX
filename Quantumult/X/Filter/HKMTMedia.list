@@ -1,7 +1,7 @@
 # (HKMTMedia)
 # > 愛奇藝台灣站
 DOMAIN,cache.video.iqiyi.com,HKMTMedia
-#DOMAIN,cache.video.qiyi.com,HKMTMedia
+DOMAIN,cache.video.qiyi.com,HKMTMedia
 # > bilibili
 DOMAIN,api.bilibili.com,HKMTMedia
 DOMAIN,upos-hz-mirrorakam.akamaized.net,HKMTMedia
