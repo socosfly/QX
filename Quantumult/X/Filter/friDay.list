@@ -2,5 +2,5 @@
 USER-AGENT,friDay*,friDay
 DOMAIN-SUFFIX,friday.tw,friDay
 USER-AGENT,myVideo*,friDay
-DOMAIN-Keyword,*myvideo*,friDay
+DOMAIN-KEYWORD,*myvideo*,friDay
 DOMAIN-SUFFIX,catch.net.tw,friDay
