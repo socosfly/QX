@@ -226,3 +226,9 @@ DOMAIN,youtubei.googleapis.com,GlobalMedia
 # > Peacock
 USER-AGENT,Peacock*,GlobalMedia
 DOMAIN-SUFFIX,peacocktv.com,GlobalMedia
+DOMAIN-KEYWORD,peacockvod,GlobalMedia
+DOMAIN-KEYWORD,nbcstreaming,GlobalMedia
+# > SlingTV
+DOMAIN-SUFFIX,sling.com,GlobalMedia  
+DOMAIN-SUFFIX,movetv.com,GlobalMedia  
+
