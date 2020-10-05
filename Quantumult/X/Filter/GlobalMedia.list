@@ -230,5 +230,18 @@ DOMAIN-KEYWORD,peacockvod,GlobalMedia
 DOMAIN-KEYWORD,nbcstreaming,GlobalMedia
 # > SlingTV
 DOMAIN-SUFFIX,sling.com,GlobalMedia  
-DOMAIN-SUFFIX,movetv.com,GlobalMedia  
-
+DOMAIN-SUFFIX,movetv.com,GlobalMedia
+DOMAIN-KEYWORD,slingtv,GlobalMedia
+DOMAIN-SUFFIX,sling.com.cdn.cloudflare.net,GlobalMedia
+DOMAIN-KEYWORD,movetv,GlobalMedia
+DOMAIN-SUFFIX,launchdarkly.com,GlobalMedia
+DOMAIN-SUFFIX,scorecardresearch.com,GlobalMedia
+DOMAIN-SUFFIX,swrve.com,GlobalMedia
+DOMAIN-SUFFIX,bugsnag.com,GlobalMedia
+DOMAIN,dishanalyticsandtesting.sc.omtrdc.net,GlobalMedia 
+# > Showtime
+DOMAIN-SUFFIX,showtime.com,GlobalMedia  
+DOMAIN-SUFFIX,sho.com,GlobalMedia  
+DOMAIN-SUFFIX,showtimeanytime.com,GlobalMedia
+DOMAIN-SUFFIX,showtime.penthera.com,GlobalMedia
+DOMAIN-KEYWORD,hls-shoany,GlobalMedia
