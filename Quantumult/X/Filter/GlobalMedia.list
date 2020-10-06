@@ -246,5 +246,5 @@ DOMAIN-SUFFIX,sho.com,GlobalMedia
 DOMAIN-SUFFIX,showtimeanytime.com,GlobalMedia
 DOMAIN-SUFFIX,showtime.penthera.com,GlobalMedia
 DOMAIN-KEYWORD,hls-shoany,GlobalMedia
-# DOMAIN-SUFFIX,cdx.cedexis.net,GlobalMedia
+DOMAIN-SUFFIX,cdx.cedexis.net,GlobalMedia
 DOMAIN,showtime.cbsi.map.fastly.net,GlobalMedia
