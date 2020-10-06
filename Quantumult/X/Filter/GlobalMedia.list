@@ -229,22 +229,22 @@ DOMAIN-SUFFIX,peacocktv.com,GlobalMedia
 DOMAIN-KEYWORD,peacockvod,GlobalMedia
 DOMAIN-KEYWORD,nbcstreaming,GlobalMedia
 # > SlingTV
+USER-AGENT,Sling*,GlobalMedia
 DOMAIN-SUFFIX,sling.com,GlobalMedia  
 DOMAIN-SUFFIX,movetv.com,GlobalMedia
 DOMAIN-SUFFIX,slingtv.map.fastly.net,GlobalMedia
 DOMAIN-SUFFIX,sling.com.cdn.cloudflare.net,GlobalMedia
 DOMAIN-KEYWORD,movetv,GlobalMedia
-DOMAIN-SUFFIX,launchdarkly.com,GlobalMedia
+#DOMAIN-SUFFIX,launchdarkly.com,GlobalMedia
 DOMAIN-SUFFIX,scorecardresearch.com,GlobalMedia
 DOMAIN-SUFFIX,swrve.com,GlobalMedia
-DOMAIN-SUFFIX,bugsnag.com,GlobalMedia
-DOMAIN,dishanalyticsandtesting.sc.omtrdc.net,GlobalMedia 
+#DOMAIN-SUFFIX,bugsnag.com,GlobalMedia
+#DOMAIN,dishanalyticsandtesting.sc.omtrdc.net,GlobalMedia 
 # > Showtime
 DOMAIN-SUFFIX,showtime.com,GlobalMedia  
 DOMAIN-SUFFIX,sho.com,GlobalMedia  
 DOMAIN-SUFFIX,showtimeanytime.com,GlobalMedia
 DOMAIN-SUFFIX,showtime.penthera.com,GlobalMedia
 DOMAIN-KEYWORD,hls-shoany,GlobalMedia
-DOMAIN-SUFFIX,cdx.cedexis.net,GlobalMedia
-DOMAIN,tve.112.2o7.net,GlobalMedia
+#DOMAIN-SUFFIX,cdx.cedexis.net,GlobalMedia
 DOMAIN,showtime.cbsi.map.fastly.net,GlobalMedia
