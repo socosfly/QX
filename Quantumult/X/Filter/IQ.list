@@ -6,6 +6,8 @@
   # 视频播放版权地区验证
   DOMAIN,intel-cache.video.iqiyi.com,IQ
   DOMAIN,intel-cache.m.iqiyi.com,IQ
+  # 2020.10.08
+  DOMAIN-KEYWORD,akcdnoversea-tw,IQ
   # 主页瀑布流
   DOMAIN,intl.iqiyi.com,IQ
   # 视频历史记录版权地区验证
@@ -20,4 +22,8 @@
   DOMAIN,intl-act.vip.iqiyi.com,IQ
   DOMAIN,intl-i.vip.iqiyi.com,IQ
   DOMAIN,msg-intl.qy.net,IQ
+  DOMAIN,intl.policy.iqiyi.com,IQ
+  DOMAIN,du-feige-intl.iqiyi.com,IQ
+  # 补充Apple TV抓包
   DOMAIN,tv-api.iqiyi.com,IQ
+  DOMAIN,tv-api2.iqiyi.com,IQ
