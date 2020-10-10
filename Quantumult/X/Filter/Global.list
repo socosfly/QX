@@ -564,3 +564,5 @@ DOMAIN-SUFFIX,x-art.com,PROXY
 DOMAIN-SUFFIX,yimg.com,PROXY
 DOMAIN,api.steampowered.com,PROXY
 DOMAIN,store.steampowered.com,PROXY
+DOMAIN-SUFFIX,technews.tw,PROXY
+DOMAIN,apk.support,PROXY
