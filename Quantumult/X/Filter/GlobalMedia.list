@@ -248,3 +248,7 @@ DOMAIN-SUFFIX,showtime.penthera.com,GlobalMedia
 DOMAIN-KEYWORD,hls-shoany,GlobalMedia
 DOMAIN-SUFFIX,cdx.cedexis.net,GlobalMedia
 DOMAIN,showtime.cbsi.map.fastly.net,GlobalMedia
+# > VUDU
+DOMAIN-SUFFIX,vudu.com,GlobalMedia
+# > MoviesAnywhere  
+DOMAIN-SUFFIX,moviesanywhere.com,GlobalMedia
