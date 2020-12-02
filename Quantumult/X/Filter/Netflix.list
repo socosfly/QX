@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,netflixdnstest6.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest7.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest8.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest9.com,Netflix
-IP-CIDR,108.175.0.0/16,no-resolve,Netflix
+# IP-CIDR,108.175.0.0/16,no-resolve,Netflix
 IP-CIDR,185.2.0.0/16,no-resolve,Netflix
 IP-CIDR,185.9.0.0/16,no-resolve,Netflix
 IP-CIDR,192.173.0.0/16,no-resolve,Netflix
