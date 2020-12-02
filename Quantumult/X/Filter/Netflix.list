@@ -20,29 +20,29 @@ DOMAIN-SUFFIX,netflixdnstest6.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest7.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest8.com,Netflix
 DOMAIN-SUFFIX,netflixdnstest9.com,Netflix
-  - IP-CIDR,108.175.0.0/16,no-resolve
-  - IP-CIDR,185.2.0.0/16,no-resolve
-  - IP-CIDR,185.9.0.0/16,no-resolve
-  - IP-CIDR,192.173.0.0/16,no-resolve
-  - IP-CIDR,192.173.0.0/16,no-resolve
-  - IP-CIDR,198.38.0.0/16,no-resolve
-  - IP-CIDR,198.45.0.0/16,no-resolve
-  - IP-CIDR,23.246.0.0/16,no-resolve
-  - IP-CIDR,23.78.0.0/16,no-resolve
-  - IP-CIDR,34.192.0.0/16,no-resolve
-  - IP-CIDR,37.77.0.0/16,no-resolve
-  - IP-CIDR,45.57.0.0/16,no-resolve
-  - IP-CIDR,52.0.0.0/16,no-resolve
-  - IP-CIDR,52.1.0.0/16,no-resolve
-  - IP-CIDR,52.22.0.0/16,no-resolve
-  - IP-CIDR,52.5.0.0/16,no-resolve
-  - IP-CIDR,52.54.0.0/16,no-resolve
-  - IP-CIDR,52.7.0.0/16,no-resolve
-  - IP-CIDR,52.71.40.0/16,no-resolve
-  - IP-CIDR,52.72.0.0/16,no-resolve
-  - IP-CIDR,54.0.0.0/16,no-resolve
-  - IP-CIDR,54.175.0.0/16,no-resolve
-  - IP-CIDR,54.85.0.0/16,no-resolve
-  - IP-CIDR,54.86.0.0/16,no-resolve
-  - IP-CIDR,64.120.128.0/17,no-resolve
-  - IP-CIDR,66.197.128.0/17,no-resolve
+IP-CIDR,108.175.0.0/16,no-resolve,Netflix
+IP-CIDR,185.2.0.0/16,no-resolve,Netflix
+IP-CIDR,185.9.0.0/16,no-resolve,Netflix
+IP-CIDR,192.173.0.0/16,no-resolve,Netflix
+IP-CIDR,192.173.0.0/16,no-resolve,Netflix
+IP-CIDR,198.38.0.0/16,no-resolve,Netflix
+IP-CIDR,198.45.0.0/16,no-resolve,Netflix
+IP-CIDR,23.246.0.0/16,no-resolve,Netflix
+IP-CIDR,23.78.0.0/16,no-resolve,Netflix
+IP-CIDR,34.192.0.0/16,no-resolve,Netflix
+IP-CIDR,37.77.0.0/16,no-resolve,Netflix
+IP-CIDR,45.57.0.0/16,no-resolve,Netflix
+IP-CIDR,52.0.0.0/16,no-resolve,Netflix
+IP-CIDR,52.1.0.0/16,no-resolve,Netflix
+IP-CIDR,52.22.0.0/16,no-resolve,Netflix
+IP-CIDR,52.5.0.0/16,no-resolve,Netflix
+IP-CIDR,52.54.0.0/16,no-resolve,Netflix
+IP-CIDR,52.7.0.0/16,no-resolve,Netflix
+IP-CIDR,52.71.40.0/16,no-resolve,Netflix
+IP-CIDR,52.72.0.0/16,no-resolve,Netflix
+IP-CIDR,54.0.0.0/16,no-resolve,Netflix
+IP-CIDR,54.175.0.0/16,no-resolve,Netflix
+IP-CIDR,54.85.0.0/16,no-resolve,Netflix
+IP-CIDR,54.86.0.0/16,no-resolve,Netflix
+IP-CIDR,64.120.128.0/17,no-resolve,Netflix
+IP-CIDR,66.197.128.0/17,no-resolve,Netflix
