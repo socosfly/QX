@@ -14,6 +14,7 @@
   DOMAIN,intl-rcd.iqiyi.com,IQ
   # 视频个人收藏版权地区验证
   DOMAIN,intl-subscription.iqiyi.com,IQ
+  IP-CIDR,118.26.120.0/24,IQ
   # 以下暂未验证（可选择直连）
   DOMAIN,intl-cmonitor.iqiyi.com,IQ
   DOMAIN,intl-passport.iqiyi.com,IQ
