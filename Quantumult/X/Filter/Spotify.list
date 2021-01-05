@@ -17,3 +17,7 @@ DOMAIN-SUFFIX,spotifyforbrands.com,Spotify
 DOMAIN-SUFFIX,spotifyjobs.com,Spotify
 DOMAIN-KEYWORD,-spotify-com,Spotify
 DOMAIN-KEYWORD,-spotify-net,Spotify
+
+# > TIDAL
+USER-AGENT,TIDAL*,GlobalMedia
+DOMAIN-SUFFIX,tidal.com,GlobalMedia
